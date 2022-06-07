@@ -1,0 +1,40 @@
+
+.viajes{
+    align-items: center;
+    text-align: center;
+}
+
+body{
+    background-image: url(./media/fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+
+.card{
+    display: inline-block;
+    align-items: center;
+}
+
+.comprar{
+    text-align: center;
+}
+
+.tiempoviaje{
+    align-items: center;
+    text-align: center;
+    padding: 2rem;
+}
+
+.salta{
+    padding: 3rem;}
+
+.bariloche{
+    padding: 3rem;
+}
+
+.mendoza{
+    padding: 3rem;
+}
